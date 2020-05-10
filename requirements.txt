@@ -1,0 +1,3 @@
+chrome-trex==0.0.1
+numpy==1.18.3
+pygame==1.9.6
